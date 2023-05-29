@@ -1,0 +1,7 @@
+knife full_1
+torus large  full2
+torus large -1 full2
+stapler full2
+flashlight full2
+utah_teapot full2
+sphere_small full11

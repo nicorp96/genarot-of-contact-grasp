@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "banana",
+        "instruction": "handoff",
+        "session_number": 1,
+        "cubic_size": 2.0,
+        "voxel_resolution": 128.0
+    },
+    "contact_grasp": {
+        "desired_min_points": 20,
+        "begin_point_threshold": 0.98,
+        "color_threshold_target": 0.6,
+        "alpha_1": 0.05,
+        "alpha_2": 0.1,
+        "alpha_3": 0.2,
+        "n_lines_points": 10,
+        "num_points_sampling": 1000,
+        "num_points_x": 7000,
+        "max_num_points_in_contact": 40,
+        "num_contact_points_sampling": 25
+    },
+    "save": {
+        "path_name": "data_new",
+        "debug": 1
+    }
+}
